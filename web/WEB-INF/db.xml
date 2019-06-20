@@ -1,0 +1,9 @@
+<Context docBase="D:/TPO4_PM_S17006/build">
+
+    <Resource name="jdbc/ksidb" auth="Container"
+              type="javax.sql.DataSource"
+              description="Baza danych ksiazek"
+              driverClassName="org.apache.derby.jdbc.EmbeddedDriver"
+              url="jdbc:derby:D:/TPO4_PM_S17006/db"
+              maxActive="20" />
+</Context>

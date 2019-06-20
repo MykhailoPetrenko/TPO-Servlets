@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TomCat">
+    <output-path>$PROJECT_DIR$/out/artifacts/TomCat</output-path>
+    <root id="archive" name="TomCat.war" />
+  </artifact>
+</component>
